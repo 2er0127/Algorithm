@@ -14,7 +14,7 @@ vector<int> solution(vector<int> arr) {
             return answer;
         }
         
-        if(answer.front() == 10) {
+        if(answer.size() == 1) {
             answer.clear();
             answer.push_back(-1);
             return answer;
