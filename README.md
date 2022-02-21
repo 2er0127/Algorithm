@@ -7,3 +7,4 @@
 ## BAEKJOON
 - [C](https://github.com/princesssuna/BOJ_C)
 - [C++](https://github.com/princesssuna/BOJ_CPP)
+- [String](./BAEKJOON/String)
